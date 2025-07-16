@@ -42,24 +42,6 @@ The dashboard enables users to:
 
 ---
 
-## 🗂️ Repository Contents
-
-Plan-Your-Ski-Trip/
-├── Plan Your Skii Trip.pbix # Power BI dashboard file
-├── Resorts Data_set.xlsx # Resort features and metadata
-├── Snow.xlsx # Snowfall and snow condition data
-├── Data_dictionary.xlsx # Definitions and descriptions of data fields
-└── README.md # Project documentation
-
-
----
-
-## 📷 Dashboard Preview
-
-> *(Add a screenshot here once exported from Power BI)*  
-> _Example Placeholder: “Explore snowfall, lift stats, and resort comparisons on this clean and interactive dashboard.”_
-
----
 
 ## 📖 Data Sources
 
